@@ -6,6 +6,14 @@
 🧠 “초기 치매 징후는 일상 속 말하기에서 가장 먼저 나타납니다.”
 해마 AI는 고령층의 언어·음성 패턴, 대화 습관, 인지 게임 결과를 기반으로 치매 위험도를 추정하고 정서적 교감 기반 기억 보조까지 제공하는 올인원 헬스케어 앱입니다.
 
+🔗 Repositories 바로가기
+| Repository | 링크 / 설명 |
+| --- | --- |
+| HAEMA_Architecture | https://github.com/Haema-AI/HAEMA_Architecture — 🧠 3-1. HAEMA Memory Architecture 실험 코드 (L1→L2→L3 3단계 기억 구조, 메모리 최대 1/15 절감, KSC 2025 논문 제출) |
+| Audio-Feature-Extraction | https://github.com/Haema-AI/Audio-Feature-Extraction — 치매 판정 모델용 음성·언어 지표 추출 |
+| MLP_train_codes | https://github.com/Haema-AI/MLP_train_codes — 3-2. AI 기반 치매 위험도 예측 (DementiaBank 데이터, 지표 6종, 3-layer MLP, Acc 82%, ROC-AUC 0.8955, TFLite 최적화) |
+| Haema_AI | https://github.com/Haema-AI/Haema_AI — 모바일 애플리케이션 코드 |
+
 ---
 
 📚 1. 프로젝트 개요
@@ -84,14 +92,13 @@
 - 2025 서강 융합기술 경진대회 — 대상 & 특별상
 - KSC 2025 논문 제출 완료(12/19 발표 예정)
 - Dacon 새싹 해커톤 참가
-- 팀원 전원 TOPCIT 응시
+- 일부 팀원 TOPCIT 응시
 
 ---
 
 📂 8. 발표 자료
-- `profile/docs/해마_프로젝트_최종_발표.pdf` (GitHub에서 클릭 시 웹 미리보기 지원)
-- 썸네일: `profile/docs/해마_프로젝트_최종_발표_썸네일.png`
-
+- `profile/docs/해마_프로젝트_최종_발표.pdf`
+![발표 자료](docs/해마_프로젝트_최종_발표.pdf)
 ![발표 썸네일](docs/해마_프로젝트_최종_발표_썸네일.png)
 
 🔗 9. Repository
